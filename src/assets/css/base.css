@@ -1,0 +1,161 @@
+:root {
+  --white: #ffffff;
+  --white-soft: #f8f8f8;
+  --white-mute: #f2f2f2;
+  --white-dove: #f0efe7;
+
+  --black: #181818;
+  --black-soft: #222222;
+  --black-mute: #282828;
+  --black-transparent:  #18181880;
+
+  --gray: #888888;
+  --gray-mute: #989898;
+  --gray-soft: #ababab;
+  --gray-fog: #ababab5b;
+  --gray-dove: #cfcfcf;
+
+  --indigo: #2c3e50;
+  --ocean-blur: #0f58b9cc;
+
+  --divider-light-1: rgba(60, 60, 60, 0.29);
+  --divider-light-2: rgba(60, 60, 60, 0.12);
+  --divider-dark-1: rgba(84, 84, 84, 0.65);
+  --divider-dark-2: rgba(84, 84, 84, 0.48);
+
+  --bright-light-1: rgba(255, 255, 255, 0.919);
+
+  --transparent: #ababab00;
+  --transparent-2: rgba(255, 255, 255, 0.271);
+
+  --primary: #00c0ff;
+  --primary-dark: #00a2ff;
+  --primary-dark-2: #0084ff;
+  --primary-blur: #00bfff49;
+  --primary-blur-2: #00bfffb4;
+
+  --blue-light: lightblue;
+  --marigold: #fdac53;
+  --marigold-dark: #fd9f53;
+  --livingCoral: #ff6f61;
+}
+
+/* Breakpoint responsive */
+:root {
+  --breakpoint-small-1: 740px;
+  --breakpoint-small-2: 739px;
+  --breakpoint-medium: 1023px;
+  --breakpoint-large: 1200px;
+}
+
+/* semantic color variables for this project */
+:root {
+  --color-background: var(--white);
+  --color-background-soft: var(--white-soft);
+  --color-background-mute: var(--white-mute);
+
+  --text-light-1: var(--white);
+  --text-light-2: var(--gray-soft);
+  --text-dark-1: var(--black);
+  --text-dark-2: var(--indigo);
+  --color-text: var(--text-light-1);
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: var(--black);
+    --color-background-soft: var(--black-soft);
+    --color-background-mute: var(--black-mute);
+
+    --color-border: var(--divider-dark-2);
+    --color-border-hover: var(--divider-dark-1);
+
+    --color-heading: var(--text-dark-1);
+    --color-text: var(--text-dark-2);
+  }
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+html {
+  /* default font-size is 16px*/
+  line-height: 1.6rem;
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  color: var(--color-text);
+  background: var(--color-background);
+  transition:
+    color 0.5s,
+    background-color 0.5s;
+  line-height: 1.6rem;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes moveDown {
+  from {
+    opacity: 0.3;
+    transform: translateY(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes moveLeftShort {
+  from {
+    transform: translateX(30%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes moveRightShort {
+  from {
+    transform: translateX(-30%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes scaleOut {
+  from {
+    height: 0px;
+    opacity: 0.3;
+  }
+  to {
+    height: 70px;
+    opacity: 1;
+  }
+}

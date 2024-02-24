@@ -1,0 +1,6 @@
+@import './base.css';
+@import './responsive.scss';
+
+#app {
+  background-color: var(--color-background-mute);
+}

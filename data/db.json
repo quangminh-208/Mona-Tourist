@@ -1,0 +1,708 @@
+{
+    "tbl_tour": [
+        {
+            "id": 1,
+            "title": "Du lịch Nhật Bản [OSAKA - KYOTO - SHIRAKAWAGO - FUJI - TOKYO - VỊNH ODAIBA] ANH ĐÀO 2024",
+            "started_date": "12/03/2024",
+            "time": "7 ngày 6 đêm",
+            "started_place": "Hà Nội",
+            "arrived_place": "Nhật Bản",
+            "vehicle": "Hàng không Vietnam Airlines",
+            "price": 40900000,
+            "kid_price": 32720000,
+            "baby_price": 12270000,
+            "quantity": 15,
+            "imgs": [
+                {
+                    "id": 1,
+                    "url": "tour-1_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "url": "tour-1_2.jpg"
+                },
+                {
+                    "id": 3,
+                    "url": "tour-1_3.jpg"
+                },
+                {
+                    "id": 4,
+                    "url": "tour-1_4.jpg"
+                },
+                {
+                    "id": 5,
+                    "url": "tour-1_5.jpg"
+                },
+                {
+                    "id": 6,
+                    "url": "tour-1_6.jpg"
+                },
+                {
+                    "id": 7,
+                    "url": "tour-1_7.jpg"
+                },
+                {
+                    "id": 8,
+                    "url": "tour-1_8.jpg"
+                },
+                {
+                    "id": 9,
+                    "url": "tour-1_9.jpg"
+                }
+            ],
+            "attraction": [
+                "Đón Tết tại  « Xứ sở mặt trời mọc » ",
+                "Ngắm hoa Anh đào Kawazu nở sớm nhất nước Nhật",
+                "Trải nghiệm tàu cao tốc Shinkansen hành trình từ Kakegawa station đi Kodama",
+                "Thư giãn Onsen kiểu Nhật Bản",
+                "Tham quan những công trình văn hóa cổ kính – độc đáo của Nhật bản: Chùa Quan Âm Asakusa, làng cổ Oshino Hakkai, đền thờ Kiyomizu, Lâu đài Osaka…",
+                "Trải nghiệm Trà đạo và mặc Yukata theo phong cách truyền thống Nhật Bản"
+            ],
+            "schedule": [
+                {
+                    "id": 1,
+                    "title": "NGÀY 1: HÀ NỘI – OSAKA",
+                    "content": "21h00: Xe ô tô và Hướng dẫn viên của Lữ hành Saigontourist Hà Nội đón quý khách tại 55B Phan Chu Trinh, khởi hành đi sân bay Nội Bài, đáp chuyến bay VN330 (00.20 - 06.40) đi Osaka. Nghỉ đêm trên máy bay.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 2,
+                    "title": "NGÀY 2: OSAKA - KYOTO - GIFU (Ăn sáng, trưa, tối)",
+                    "content": "Đến sân bay, xe và hướng dẫn viên đón quý khách và đưa đi tham quan, chụp ảnh lưu niệm ở Lâu đài Osaka (bên ngoài). Đoàn di chuyển đi cố đô Kyoto (thành phố lớn thứ 7 của Nhật Bản) - được mệnh danh là cố đô nghìn năm, nơi còn lưu giữ rất nhiều di tích lịch sử đền đài tạo nên bộ mặt vừa hiện đại vừa truyền thống của đất nước Nhật Bản. Tham quan chùa Vàng (Golden pavilion). Tham quan chùa Kiyomizu - di sản văn hóa thế giới với phong cảnh lãng mạn ngập tràn sắc anh đào. Đoàn tới Gifu. Ăn tối. Nghỉ đêm tại khách sạn.",
+                    "img_url": "tour-1_6.jpg",
+                    "img_title": "Hoa anh đào ở phường Fushimi - Kyoto"
+                },
+                {
+                    "id": 3,
+                    "title": "NGÀY 3: GIFU - SHIRAKAWAGO - TAKAYAMA - MATSUMOTO (Ăn sáng, trưa, tối)",
+                    "content": "Ăn sáng tại khách sạn. Xe đưa đoàn đi tham quan ngôi làng cổ Shirakawago - là di sản văn hóa thế giới được UNESCO công nhận. Điểm du lịch mang vẻ đẹp độc đáo của ngôi làng cổ kính với những mái nhà được lót cỏ tranh, rơm rạ dày 50 cm – 100 cm, gần nửa thế kỷ mới thay một lần cùng với nét sinh hoạt đơn sơ, giản dị của người dân địa phương. Hàng năm, gần 2 triệu người từ khắp nơi đến đây chỉ để hít thở một chút không khí miền quê yên ả, tĩnh mịch. Shirakawa-go như thể tình yêu, đã đến, đã thấy, đã ở lại là chẳng muốn quay về. Ăn trưa. Tham quan phố cổ Takayama. Đến cầu Naka-bashi ngắm hoa anh đào. Đây là cây cầu màu đỏ son bắc qua sông Miyagawa của tỉnh Gifu, là địa điểm biểu tượng cho thành phố Takayama-shi. Ăn tối. Nghỉ đêm tại khách sạn.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 4,
+                    "title": "NGÀY 4: MATSUMOTO - NÚI PHÚ SỸ - CHUREITO  (Ăn sáng, trưa, tối)",
+                    "content": "Ăn sáng tại khách sạn. Xe đưa đoàn đi tham quan ngôi làng cổ Shirakawago - là di sản văn hóa thế giới được UNESCO công nhận. Điểm du lịch mang vẻ đẹp độc đáo của ngôi làng cổ kính với những mái nhà được lót cỏ tranh, rơm rạ dày 50 cm – 100 cm, gần nửa thế kỷ mới thay một lần cùng với nét sinh hoạt đơn sơ, giản dị của người dân địa phương. Hàng năm, gần 2 triệu người từ khắp nơi đến đây chỉ để hít thở một chút không khí miền quê yên ả, tĩnh mịch. Shirakawa-go như thể tình yêu, đã đến, đã thấy, đã ở lại là chẳng muốn quay về. Ăn trưa. Tham quan phố cổ Takayama. Đến cầu Naka-bashi ngắm hoa anh đào. Đây là cây cầu màu đỏ son bắc qua sông Miyagawa của tỉnh Gifu, là địa điểm biểu tượng cho thành phố Takayama-shi. Ăn tối. Nghỉ đêm tại khách sạn.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 5,
+                    "title": "NGÀY 5: NÚI PHÚ SỸ - TOKYO  (Ăn sáng, trưa, tối)",
+                    "content": "Sau bữa sáng tại khách sạn. Xe đưa Quý khách đi thủ đô Tokyo. Thăm quan chùa Quan Âm Asakusa - một trong những công trình cổ nhất và nổi tiếng tại Tokyo. Chụp hình với tháp Tokyo Skytree cao 634m là tháp truyền hình cao nhất thế giới hiện nay (không lên tháp). Đoàn tự do mua sắm tại các khu phố thương mại nổi tiếng ở Tokyo như khu chợ điện tử Akihabara hoặc khu Ginza. Ăn tối tại nhà hàng. Nghỉ đêm tại khách sạn.",
+                    "img_url": "tour-1_8.jpg",
+                    "img_title": "Núi Phú Sĩ từ chùa Chureito"
+                },
+                {
+                    "id": 6,
+                    "title": "NGÀY 6: TOKYO - ODAIBA - HÀ NỘI (Ăn sáng, trưa)",
+                    "content": "Sau bữa sáng, xe đưa đoàn đi tham quan, chụp hình bên ngoài Hoàng Cung Nhật Bản. Sau đó, Đoàn trải nghiệm Automatic train từ Tokyo đi đảo Odaiba, quý khách trải nghiệm công nghệ tàu không người lái hiện đại bậc nhất Nhật Bản, ngắm nhìn toàn cảnh Vịnh đảo Odaiba - hòn đảo nhân tạo nối liền với thành phố Tokyo. Tự do mua sắm tại khu trung tâm Odaiba. Ăn trưa tại nhà hàng. Chiều, xe đưa đoàn ra sân bay đáp chuyến bay VN385 (16.35 - 20.10) về Hà Nội. Máy bay hạ cánh tại sân bay quốc tế Nội Bài. Xe đưa đoàn về điểm hẹn ban đầu. Chia tay và hẹn gặp lại quý khách.",
+                    "img_url": "",
+                    "img_title": ""
+                }
+            ],
+            "policy": "* ĐẶT CỌC: Quý khách vui lòng đặt cọc 20.000.000VNĐ/khách khi đăng kí tour"
+        },
+        {
+            "id": 2,
+            "title": "Du lịch ÚC 2024 [SYDNEY - MELBOURNE] Trải nghiệm đi cáp treo thung lũng & Công viên hoang dã",
+            "started_date": "02/03/2024",
+            "time": "6 ngày 5 đêm",
+            "started_place": "Hồ Chí Minh",
+            "arrived_place": "ÚC",
+            "vehicle": "Hàng không Bamboo Airways",
+            "price": 62900000,
+            "kid_price": 50320000,
+            "baby_price": 18800000,
+            "quantity": 12,
+            "imgs": [
+                {
+                    "id": 1,
+                    "url": "tour-2_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "url": "tour-2_2.jpg"
+                },
+                {
+                    "id": 3,
+                    "url": "tour-2_3.jpg"
+                },
+                {
+                    "id": 4,
+                    "url": "tour-2_4.jpg"
+                },
+                {
+                    "id": 5,
+                    "url": "tour-2_5.jpg"
+                },
+                {
+                    "id": 6,
+                    "url": "tour-2_6.jpg"
+                },
+                {
+                    "id": 7,
+                    "url": "tour-2_7.jpg"
+                }
+            ],
+            "attraction": [
+                "Quý khách tham gia tour du lịch Úc đảm bảo chất lượng dịch vụ tốt nhất theo tiêu chuẩn Lữ hành Saigontourist.",
+                "Tham quan Thành phố Cảng Sydney danh tiếng, du ngoạn trên tàu ngắm nhìn các biểu tượng của nước Úc: Nhà hát con sò, cầu cảng Sydney, cáp treo qua thung lũng Jaminson. ",
+                "Thăm Melbourne, thưởng lãm cảnh đẹp của vườn thực vật Fitzroy Garden, gặp gỡ tận mắt vô số động vật đặc hữu nước Úc, trải nghiệm độc đáo tàu lửa hơi nước."
+            ],
+            "schedule": [
+                {
+                    "id": 1,
+                    "title": "NGÀY 1: ĐÀ NẴNG - TP.HỒ CHÍ MINH - SYDNEY",
+                    "content": "Quý khách tự túc tập trung tại ga đi Quốc Tế sân bay Đà Nẵng, khởi hành đi TP.Hồ Chí Minh (VN131, 15:20 - 17:05), sau đó đoàn tiếp tục khởi hành đi Sydney trên chuyến bay (VN773, 20:45 - 09:15). Nghỉ đêm trên máy bay.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 2,
+                    "title": "NGÀY 2: KHÁM PHÁ SYDNEY (Ăn sáng trên máy bay, ăn trưa, ăn tối)",
+                    "content": "Đoàn đến sân bay Sydney. Quý khách làm thủ tục nhập cảnh. Xe đón đoàn bắt đầu hành trình khám phá Sydney - thành phố cảng nhộn nhịp, nổi tiếng và lâu đời nhất nước Úc: Ngắm Công viên Hype: nằm trong trung tâm thành phố Sydney, với lịch sử lâu đời gần 200 năm. Nhà thờ St Mary, Chiếc ghế của Phu nhân Thống đốc Macquarie. Chụp hình bên ngoài Nhà hát Con Sò trứ danh và tháp Sydney, tự do dạo chơi Cảng Darling - 'Bến cảng tình yêu' nổi tiếng dành cho các cặp tình nhân. Khu phố cổ The Rocks - một khu dân cư với những con ngõ lịch sử độc đáo nước Úc. Nghỉ đêm tại Sydney.",
+                    "img_url": "tour-2_6.jpg",
+                    "img_title": "Nhà hát con sò"
+                },
+                {
+                    "id": 3,
+                    "title": "NGÀY 3: SYDNEY - BLUE MOUNTAIN - SYDNEY (Ăn sáng, trưa, tối)",
+                    "content": "Đoàn khởi hành đi Blue Mountain được UNESCO công nhận là di sản thiên nhiên thế giới, với khung cảnh thiên nhiên vô cùng hùng vĩ, mảng rừng nguyên sinh nơi đây nổi tiếng với màu xanh bạt ngàn. Xe di chuyển dọc theo cánh rừng sừng sững những vách núi, thung lũng, thác nước và cả vực sâu tạo cho du khách một cảm giác khám phá thật thú vị. Đến Blue Mountain, quý khách sẽ được tham quan: Đi cáp treo qua thung lũng, thưởng ngoạn các cảnh đẹp tự nhiên của ngọn núi xanh hùng vĩ. Ngồi xe điện xuống thung lũng Jamison, nghe tiếng trống tái hiện lại hình ảnh của người thổ dân da đỏ Úc xưa kia. Tham quan Công viên Scenic World, chụp hình tại Three Sisters hay còn gọi là Núi ba chị em. Tiếp tục hành trình, quý khách sẽ di chuyển men theo rừng núi trên cây cầu bằng gỗ để khám phá hệ thực vật còn nguyên sơ tại đây và được nghe nhiều câu chuyện kể về cách khai thác đá bằng hệ thống hầm lò của người Úc thời xưa cổ. Chiều, đoàn di chuyển về lại Sydney. Nghỉ đêm tại Sydney.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 4,
+                    "title": "NGÀY 4: SYDNEY - MELBOURNE (Ăn sáng, trưa, tối)",
+                    "content": "Xe đưa đoàn ra sân bay Sydney, đáp chuyến bay đi Melbourne (VA824, 09:00 - 10:35). Đoàn tham quan thành phố Melbourne: Chiêm ngưỡng Nhà thờ Thánh Patrick cao nhất đất nước, được hoàn thành vào năm 1939. Chụp hình bên ngoài Tòa nhà Nghị Viện và nhà của Thuyền Trưởng James Cook, người châu Âu đầu tiên tiếp xúc với bờ biển phía Đông nước Úc. Chiêm ngưỡng vẻ đẹp ngọt ngào trên những tán hoa, bãi cỏ của Vườn thực vật Fitzroy. Xe đưa đoàn ngang qua Quảng trường Federation, trạm xe lửa trung tâm Flinders - nhà ga xe lửa hơi nước đầu tiên ở Úc, sông Yarra và chợ Victoria. Chiều, quý khách tự do tham quan và mua sắm tại các trung tâm shopping gần khu vực khách sạn, Nghỉ đêm tại Melbourne.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 5,
+                    "title": "NGÀY 5: MELBOURNE - ĐẢO PHILIP (Ăn sáng, trưa, tối)",
+                    "content": "Xe đưa đoàn xuyên qua cánh rừng khu vực Dandenong, tham gia hoạt động thú vị như Tàu lửa hơi nước (Puffing Billy Steam Train): quý khách có dịp trải nghiệm cảm giác ngồi trên tàu lửa hơi nước Puffing Billy có từ đầu thế kỷ 20. Tàu sẽ đưa Quý khách vượt qua chặng đường dài gần 6km qua các cây cầu gỗ cùng những ngôi làng cổ để ngắm nhìn các rừng cây cao, dương xỉ bên dưới và cùng sống lại những năm tháng giao thương nông sản giữa những người dân ở Dandenong và Melbourne. Tham quan công viên Maru Wildlife - tại đây quý khách có dịp ngắm nhìn vô số động vật yêu quý nhất của Úc: gấu túi koalas, chuột túi nổi tiếng ở Úc và xem màn trình diễn cắt xén lông cừu. Thưởng thức bữa trưa với món thịt bò đen nổi tiếng tại Úc mang hương vị ngọt đậm đà, miếng thịt bò vừa dai vừa mềm, món ăn phù hợp với cả những người lớn tuổi. Tiếp tục hành trình, đoàn khởi hành qua đảo Philip, nơi lưu trú của hàng nghìn chú chim cánh cụt trắng và đen nhỏ nhất thế giới. Về lại trung tâm Melbourne. Nghỉ đêm tại Melbourne.",
+                    "img_url": "tour-2_7.jpg",
+                    "img_title": "Công viên Maru Wildlife"
+                },
+                {
+                    "id": 6,
+                    "title": "NGÀY 6: MELBOURNE - TP.HỒ CHÍ MINH - ĐÀ NẴNG (Ăn sáng)",
+                    "content": "Xe đưa đoàn ra sân bay về lại TP.HCM (VN 780, 11:35 - 16:25). Đến sân bay Tân Sơn Nhất, đoàn tiếp tục nối chuyến về lại Đà Nẵng (VN146, 20:10 - 21:30). Kết thúc chương trình. Chào tạm biệt.",
+                    "img_url": "",
+                    "img_title": ""
+                }
+            ],
+            "policy": "* ĐẶT CỌC: Quý khách vui lòng đặt cọc 20.000.000VNĐ/khách khi đăng kí tour"
+        },
+        {
+            "id": 3,
+            "title": "Du lịch Hàn Quốc [ SEOUL – NAMI – EVERLAND – SKY WALK ] Ngắm hoa anh đào tại Hàn Quốc",
+            "started_date": "04/04/2024",
+            "time": "5 NGÀY 4 ĐÊM",
+            "started_place": "Hà Nội",
+            "arrived_place": "Hàn Quốc",
+            "vehicle": "Hàng không VietJet",
+            "price": 22990000,
+            "kid_price": 18390000,
+            "baby_price": 6890000,
+            "quantity": 8,
+            "imgs": [
+                {
+                    "id": 1,
+                    "url": "tour-3_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "url": "tour-3_2.jpg"
+                },
+                {
+                    "id": 3,
+                    "url": "tour-3_3.jpg"
+                },
+                {
+                    "id": 4,
+                    "url": "tour-3_4.jpg"
+                },
+                {
+                    "id": 5,
+                    "url": "tour-3_5.jpg"
+                },
+                {
+                    "id": 6,
+                    "url": "tour-3_6.jpg"
+                },
+                {
+                    "id": 7,
+                    "url": "tour-3_7.jpg"
+                },
+                {
+                    "id": 8,
+                    "url": "tour-3_8.jpg"
+                },
+                {
+                    "id": 9,
+                    "url": "tour-3_9.jpg"
+                }
+            ],
+            "attraction": [
+                "Vui chơi trong Công viên giải trí EVERLAND– Top 10 công viên giải trí thu hút nhất thế giới.",
+                "Thưởng ngoạn thiên nhiên tuyệt vời trên đảo Nami xinh đẹp và yên bình",
+                "Ngắm hoa anh đào khoe sắc tại Hồ Seokchon (hoặc công viên Yeouido)",
+                "Thưởng thức Painting Hero Show - Vở diễn được kết hợp bởi rất nhiều yếu tố hài hước, vui  nhộn cùng với tài nghệ vẽ tranh của các anh chàng họa sĩ",
+                "Thăm quan Làng cổ Eunpyeong Hanok bên dãy núi Bukhansan",
+                "Tặng một bữa buffet sushi ",
+                "Thỏa thích mua sắm với các sản phẩm chăm sóc sức khỏe và làm đẹp nổi tiếng Hàn Quốc"
+            ],
+            "schedule": [
+                {
+                    "id": 1,
+                    "title": "NGÀY 1: HANOI – SEOUL (Ăn tối)",
+                    "content": "07h00 Xe và hướng dẫn viên đón quý khách tại văn phòng lữ hành Saigontourist 55B Phan Chu Trinh và đưa đoàn lên sân bay Nội Bài, HDV làm thủ tục cho đoàn đáp chuyến bay VN414 (10:20 – 16:35) đi Incheon. Xe đón đoàn tại sân bay, Xe đưa đoàn đi ăn tối. Nhận phòng khách sạn.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 2,
+                    "title": "NGÀY 2: SEOUL –  ĐẢO NAMI – NGẮM HOA ANH ĐÀO (Ăn sáng, trưa, tối)",
+                    "content": "Ăn sáng. đoàn đi tham quan Đảo Nami - hòn đảo nhỏ xinh đẹp, nằm ở Chuncheon, cách Seoul khoảng 63km về phía Đông. Đảo có hình bán nguyệt, trông xa như chiếc thuyền khổng lồ nổi nên trên mặt sông Chuncheon, với những hàng cây lá xanh tươi đầy thơ mộng. Ăn trưa tại nhà hàng. Chiều đoàn chiêm ngưỡng hoa anh đào khoe sắc tại Hồ Seokchon (hoặc công viên Yeouido). Tham quan Tháp truyền hình Namsan - một không gian văn hóa rất được yêu thích với hàng rào Khóa tình yêu dưới chân tháp (không bao gồm chi phí lên tháp). Chụp ảnh lưu niệm tại quảng trường Gwanghwamun, dạo bộ bên bờ suối Cheong Gye Cheon giữa lòng thủ đô Seoul. Ăn tối. Nghỉ đêm tại khách sạn.",
+                    "img_url": "tour-3_6.jpg",
+                    "img_title": "Tháp Namsan – “Tháp tình yêu” lãng mạn"
+                },
+                {
+                    "id": 3,
+                    "title": "NGÀY 3: SEOUL – CÔNG VIÊN EVERLAND (Ăn sáng, trưa, tối)",
+                    "content": "Ăn sáng tại khách sạn. Xe đưa đoàn đi tham quan và mua sắm  tại Trung tâm Nhân sâm chính phủ và cửa hàng Mỹ Phẩm với rất nhiều các nhãn hàng nội địa chất lượng của Hàn Quốc ... Ăn trưa tại nhà hàng. Buổi chiều, đoàn di chuyển tới tham quan Công viên giải trí liên hợp Everland – nổi tiếng với nhiều trò chơi & các màn trình diễn hấp dẫn. Một trong mười công viên lớn nhất thế giới với nhiều trò chơi cảm giác mạnh, khu vườn thú hoang dã Safari. Quý khách sẽ thả mình vui chơi trong những vườn hoa sặc sỡ, cùng tham gia diễu hành với đoàn vũ công của công viên. Ăn tối. Tự do vui chơi thành phố Seoul về đêm, khám phá khu chợ Myongdong truyền thống. Nghỉ đêm tại khách sạn.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 4,
+                    "title": "NGÀY 4: SEOUL - PAINTING HERO SHOW (Ăn sáng, trưa, tối)",
+                    "content": "Ăn sáng tại khách sạn. Xe đưa quý khách mua sắm tại cửa hàng tinh dầu thông đỏ; cửa hàng nông sản Hàn Quốc có các sản phẩm nổi tiếng như Nấm Linh Chi; sâm tươi…. Tự do mua sắm tại trung tâm miễn thuế. Ăn trưa tại nhà hàng. Chiều xe đưa đoàn đi tham quan chụp hình bên ngoài Nhà Xanh – Phủ Tổng Thống nơi làm việc và nơi ở chính thức của các đời Tổng Thống. Tham quan cung điện Gyeongbok Palace - cung điện Hoàng Gia đầu tiên được xây dựng ở triều đại Joseon và là cung điện đồ sộ nhất Hàn Quốc. Tiếp tục tham quan Bảo tàng Dân gian Quốc gia nơi lưu trữ và bảo tồn các di sản văn hóa của Hàn Quốc với hơn 10.000 mẫu vật phản ánh nghi lễ, tôn giáo, cách bài trí nhà cửa và các đồ vật trong gia đình Hàn Quốc. Đoàn tiếp tục thưởng thức Painting Hero Show - Vở diễn được kết hợp bởi rất nhiều yếu tố hài hước, vui  nhộn cùng với tài nghệ vẽ tranh của các anh chàng họa sĩ. Ăn tối. Nghỉ đêm tại khách sạn.",
+                    "img_url": "",
+                    "img_title": ""
+                },
+                {
+                    "id": 5,
+                    "title": "NGÀY 5: SEOUL – LÀNG CỔ EUNPYEONG HANOK – HÀ NỘI (Ăn sáng, trưa)",
+                    "content": "Ăn sáng. Trả phòng  Xe đưa đoàn đi thăm quan Làng cổ Eunpyeong Hanok được bao quanh bởi dãy núi Bukhansan, khiến nơi đây trở thành một địa điểm đẹp như tranh vẽ. Chụp hình tại Choligol Café, thưởng thức đồ uống tại đây (chi phí tự túc). Tham quan Ara Maru Sky Walk - là một cây cầu hình tròn với sàn làm hoàn toàn bằng kính, cách mặt nước 45m, như được treo lơ lửng trên không. Ăn trưa. Tự do mua sắm tại cửa hàng tổng hợp MyeongPum. Sau đó, xe đưa quý khách ra sân bay Incheon Airport đáp chuyến bay VN415 (18:05 – 20:30) trở về Việt Nam. Hạ cánh tại Nội Bài, xe đón đoàn về trung tâm thành phố. Chia tay và kết thúc chương trình.",
+                    "img_url": "tour-3_7.jpg",
+                    "img_title": "Làng cổ Eunpyeong Hanok"
+                }
+            ],
+            "policy": "* ĐẶT CỌC: Quý khách vui lòng đặt cọc 20.000.000VNĐ/khách khi đăng kí tour"
+        }
+    ],
+    "tbl_img": [
+        {
+            "id": 1,
+            "name": "Du lịch Nhật Bản",
+            "url": "src/assets/img/tour-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Du lịch Úc",
+            "url": "https://www.trafalgar.com/media/orajbvt3/sydney-cbd-opera-house-533642311-1920x1280.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Du Lịch Hàn Quốc",
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/c6/e4/b8/caption.jpg"
+        }
+    ],
+    "tbl_category": [
+        {
+            "id": 1,
+            "name": "Tour du lịch",
+            "parent_id": null
+        },
+        {
+            "id": 2,
+            "name": "Dịch vụ du lịch",
+            "parent_id": null
+        },
+        {
+            "id": 3,
+            "name": "Tour trong nước",
+            "parent_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Tour nước ngoài",
+            "parent_id": 1
+        },
+        {
+            "id": 5,
+            "name": "MIỀN BẮC",
+            "parent_id": 3
+        },
+        {
+            "id": 6,
+            "name": "MIỀN TRUNG",
+            "parent_id": 3
+        },
+        {
+            "id": 7,
+            "name": "MIỀN NAM",
+            "parent_id": 3
+        },
+        {
+            "id": 8,
+            "name": "CHÙM TOUR",
+            "parent_id": 3
+        },
+        {
+            "id": 9,
+            "name": "Đông Bắc - Tây Bắc",
+            "parent_id": 5
+        },
+        {
+            "id": 10,
+            "name": "Hà Nội",
+            "parent_id": 5
+        },
+        {
+            "id": 11,
+            "name": "Hạ Long",
+            "parent_id": 5
+        },
+        {
+            "id": 12,
+            "name": "Sapa",
+            "parent_id": 5
+        },
+        {
+            "id": 13,
+            "name": "Ninh Bình",
+            "parent_id": 5
+        },
+        {
+            "id": 14,
+            "name": "Hải Phòng",
+            "parent_id": 5
+        },
+        {
+            "id": 15,
+            "name": "Thanh Hóa",
+            "parent_id": 5
+        },
+        {
+            "id": 16,
+            "name": "Phan Thiết",
+            "parent_id": 6
+        },
+        {
+            "id": 17,
+            "name": "Nha Trang",
+            "parent_id": 6
+        },
+        {
+            "id": 18,
+            "name": "Đà Lạt",
+            "parent_id": 6
+        },
+        {
+            "id": 19,
+            "name": "Tây Nguyên",
+            "parent_id": 6
+        },
+        {
+            "id": 20,
+            "name": "Tuy Hoà - Quy Nhơn - Quảng Ngãi",
+            "parent_id": 6
+        },
+        {
+            "id": 21,
+            "name": "Huế - Quảng Bình",
+            "parent_id": 6
+        },
+        {
+            "id": 22,
+            "name": "Nghệ An",
+            "parent_id": 6
+        },
+        {
+            "id": 23,
+            "name": "Đà Nẵng",
+            "parent_id": 6
+        },
+        {
+            "id": 24,
+            "name": "Phú Quốc",
+            "parent_id": 7
+        },
+        {
+            "id": 25,
+            "name": "Miền Tây",
+            "parent_id": 7
+        },
+        {
+            "id": 26,
+            "name": "Côn Đảo",
+            "parent_id": 7
+        },
+        {
+            "id": 27,
+            "name": "Hồ Tràm - Vũng Tàu",
+            "parent_id": 7
+        },
+        {
+            "id": 28,
+            "name": "Tour Tp. Hồ Chí Minh",
+            "parent_id": 7
+        },
+        {
+            "id": 29,
+            "name": "Tây Ninh",
+            "parent_id": 7
+        },
+        {
+            "id": 30,
+            "name": "Đông Nam Bộ",
+            "parent_id": 7
+        },
+        {
+            "id": 31,
+            "name": "Tết Nguyên Đán 2024",
+            "parent_id": 8
+        },
+        {
+            "id": 32,
+            "name": "Phú Quốc Tết Nguyên Đán",
+            "parent_id": 8
+        },
+        {
+            "id": 33,
+            "name": "CHÂU Á",
+            "parent_id": 4
+        },
+        {
+            "id": 34,
+            "name": "CHÂU ÂU",
+            "parent_id": 4
+        },
+        {
+            "id": 35,
+            "name": "CHÂU MỸ - CHÂU ÚC - CHÂU PHI",
+            "parent_id": 4
+        },
+        {
+            "id": 36,
+            "name": "CHÙM TOUR",
+            "parent_id": 4
+        },
+        {
+            "id": 37,
+            "name": "Ấn Độ",
+            "parent_id": 33
+        },
+        {
+            "id": 38,
+            "name": "Bhutan",
+            "parent_id": 33
+        },
+        {
+            "id": 39,
+            "name": "Trung Quốc",
+            "parent_id": 33
+        },
+        {
+            "id": 40,
+            "name": "Campuchia",
+            "parent_id": 33
+        },
+        {
+            "id": 41,
+            "name": "Đài Loan",
+            "parent_id": 33
+        },
+        {
+            "id": 42,
+            "name": "Hàn Quốc",
+            "parent_id": 33
+        },
+        {
+            "id": 43,
+            "name": "HongKong",
+            "parent_id": 33
+        },
+        {
+            "id": 44,
+            "name": "Malaysia",
+            "parent_id": 33
+        },
+        {
+            "id": 45,
+            "name": "Myanmar",
+            "parent_id": 33
+        },
+        {
+            "id": 46,
+            "name": "Nhật Bản",
+            "parent_id": 33
+        },
+        {
+            "id": 47,
+            "name": "Singapore",
+            "parent_id": 33
+        },
+        {
+            "id": 48,
+            "name": "Thái Lan",
+            "parent_id": 33
+        },
+        {
+            "id": 49,
+            "name": "Tiểu vương quốc Ả Rập",
+            "parent_id": 33
+        },
+        {
+            "id": 50,
+            "name": "Brunei",
+            "parent_id": 33
+        },
+        {
+            "id": 51,
+            "name": "Lào",
+            "parent_id": 33
+        },
+        {
+            "id": 52,
+            "name": "Indonesia",
+            "parent_id": 33
+        },
+        {
+            "id": 53,
+            "name": "Azerbaijan",
+            "parent_id": 33
+        },
+        {
+            "id": 54,
+            "name": "Maldives",
+            "parent_id": 33
+        },
+        {
+            "id": 55,
+            "name": "Trung Đông",
+            "parent_id": 33
+        },
+        {
+            "id": 56,
+            "name": "Qatar",
+            "parent_id": 33
+        },
+        {
+            "id": 57,
+            "name": "Philippines",
+            "parent_id": 33
+        },
+        {
+            "id": 58,
+            "name": "Anh",
+            "parent_id": 34
+        },
+        {
+            "id": 59,
+            "name": "Châu Âu",
+            "parent_id": 34
+        },
+        {
+            "id": 60,
+            "name": "Scotland",
+            "parent_id": 34
+        },
+        {
+            "id": 61,
+            "name": "Thổ Nhĩ Kỳ",
+            "parent_id": 34
+        },
+        {
+            "id": 62,
+            "name": "Úc",
+            "parent_id": 35
+        },
+        {
+            "id": 63,
+            "name": "Mỹ",
+            "parent_id": 35
+        },
+        {
+            "id": 64,
+            "name": "Nam Phi",
+            "parent_id": 35
+        },
+        {
+            "id": 65,
+            "name": "New Zealand",
+            "parent_id": 35
+        },
+        {
+            "id": 66,
+            "name": "Ma-rốc",
+            "parent_id": 35
+        },
+        {
+            "id": 67,
+            "name": "Canada",
+            "parent_id": 35
+        },
+        {
+            "id": 68,
+            "name": "Nam Mỹ",
+            "parent_id": 35
+        },
+        {
+            "id": 69,
+            "name": "Ai Cập",
+            "parent_id": 35
+        },
+        {
+            "id": 70,
+            "name": "Tour Du thuyền",
+            "parent_id": 36
+        },
+        {
+            "id": 71,
+            "name": "Tết Nguyên Đán 2024",
+            "parent_id": 36
+        },
+        {
+            "id": 72,
+            "name": "Tour Hoa Anh Đào",
+            "parent_id": 36
+        },
+        {
+            "id": 73,
+            "name": "Thuê Xe",
+            "parent_id": 2
+        },
+        {
+            "id": 74,
+            "name": "Vé Máy Bay",
+            "parent_id": 2
+        },
+        {
+            "id": 75,
+            "name": "Bảo Hiểm Du Lịch",
+            "parent_id": 2
+        },
+        {
+            "id": 76,
+            "name": "Sim Du Lịch",
+            "parent_id": 2
+        },
+        {
+            "id": 77,
+            "name": "Coupon Du Lịch",
+            "parent_id": 2
+        },
+        {
+            "id": 78,
+            "name": "Dịch Vụ Ủy Thác Visa",
+            "parent_id": 2
+        }
+    ]
+}
